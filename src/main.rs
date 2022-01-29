@@ -1,4 +1,3 @@
-use semver::client;
 use semver::handlers;
 
 extern crate clap;
